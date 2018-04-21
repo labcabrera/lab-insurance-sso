@@ -1,0 +1,3 @@
+= lab-insurance-sso
+
+SSO de https://github.com/labcabrera/lab-insurance basado en OAuth2.
