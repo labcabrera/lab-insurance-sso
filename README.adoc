@@ -1,3 +1,5 @@
 = lab-insurance-sso
 
+image:https://travis-ci.org/labcabrera/lab-insurance-sso.svg?branch=master["Build Status", link="https://travis-ci.org/labcabrera/lab-insurance-sso"]
+
 SSO de https://github.com/labcabrera/lab-insurance basado en OAuth2.
