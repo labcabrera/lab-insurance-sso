@@ -1,0 +1,3 @@
+include ":insurance-sso-server"
+
+// rootProject.name = 'insurance-sso-server'
